@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASEDemo", "ASEDemo\ASEDemo.csproj", "{3DCA0F70-8549-430E-A43E-F29F5C60B42D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASEUnitTests", "ASEUnitTests\ASEUnitTests.csproj", "{266D01A2-9522-473B-9AF9-D26814FB175E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DCA0F70-8549-430E-A43E-F29F5C60B42D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCA0F70-8549-430E-A43E-F29F5C60B42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCA0F70-8549-430E-A43E-F29F5C60B42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCA0F70-8549-430E-A43E-F29F5C60B42D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266D01A2-9522-473B-9AF9-D26814FB175E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266D01A2-9522-473B-9AF9-D26814FB175E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266D01A2-9522-473B-9AF9-D26814FB175E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266D01A2-9522-473B-9AF9-D26814FB175E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC758580-3FC1-416A-9AEB-9B7D64A0AF0C}
+	EndGlobalSection
+EndGlobal
